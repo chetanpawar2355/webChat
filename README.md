@@ -32,5 +32,4 @@ Users can edit an existing chat message using this form.
 <img width="758" height="301" alt="Edit Chat" src="https://github.com/user-attachments/assets/8fe9c7f7-1767-4712-83b8-298cab5db1c9" />
 
 ### Add New User
-➕ Create new chats
 <img width="343" height="362" alt="Add New Chat" src="https://github.com/user-attachments/assets/27f588a7-ac6e-4ef5-aec7-f945226fa70e" />
