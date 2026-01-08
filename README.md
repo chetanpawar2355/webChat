@@ -17,10 +17,6 @@ A simple Chat Management Web Application built using Node.js, Express, MongoDB, 
 - Frontend: EJS, HTML, CSS, JavaScript
 - Utilities: Method Override
 
-## UI Preview
-Chat cards displaying:
-
-- Sender & Receiver
-- Message content
-- Date & Time
-- Edit & Delete actions
+### All Chats Page
+This page displays all chat messages in a card layout.
+![All Chats Page](<img width="1257" height="566" alt="All Chats Page" src="https://github.com/user-attachments/assets/38848722-0f51-4241-ae40-6fa9daad04b3" />)
